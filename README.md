@@ -10,23 +10,23 @@ I will reference the control names as they appear in the
 
 ### Knobs
 
-**VR 5**    -> Quick Effect Super Knob 1
-**VR 13**   -> Quick Effect Super Knob 2
-**VR 17**   -> Effect Rack 1, Unit 1 Balance
-**VR 18**   -> Effect Rack 1, Unit 2 Balance
-**VR 19**   -> Effect Rack 1, Unit 3 Balance
-**VR 20**   -> Effect Rack 1, Unit 4 Balance
+**VR 5**    -> Quick Effect Super Knob 1  
+**VR 13**   -> Quick Effect Super Knob 2  
+**VR 17**   -> Effect Rack 1, Unit 1 Balance  
+**VR 18**   -> Effect Rack 1, Unit 2 Balance  
+**VR 19**   -> Effect Rack 1, Unit 3 Balance  
+**VR 20**   -> Effect Rack 1, Unit 4 Balance  
 
 ### Switches
 
-**SW 12**   -> Deck 1, Hotcue 1
-**SW 13**   -> Deck 1, Hotcue 2
-**SW 14**   -> Deck 2, Hotcue 1
-**SW 15**   -> Deck 2, Hotcue 2
-**SW 33**   -> Effect Rack 1, Unit 1 Toggle
-**SW 34**   -> Effect Rack 1, Unit 2 Toggle
-**SW 35**   -> Effect Rack 1, Unit 3 Toggle
-**SW 36**   -> Effect Rack 1, Unit 4 Toggle
+**SW 12**   -> Deck 1, Hotcue 1  
+**SW 13**   -> Deck 1, Hotcue 2  
+**SW 14**   -> Deck 2, Hotcue 1  
+**SW 15**   -> Deck 2, Hotcue 2  
+**SW 33**   -> Effect Rack 1, Unit 1 Toggle  
+**SW 34**   -> Effect Rack 1, Unit 2 Toggle  
+**SW 35**   -> Effect Rack 1, Unit 3 Toggle  
+**SW 36**   -> Effect Rack 1, Unit 4 Toggle  
 
 ## TODO
 
